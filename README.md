@@ -11,6 +11,7 @@
 ---
 
 ### About Me
+- President of the Illinois Tech Cyberhawks
 - Experienced in **Security Operations**, developing automated workflows (LogicApps), tuning Microsoft Defender alerts via KQL queries, and supporting cloud account onboarding.
 - Passionate about spreading awareness about social engineering and phishing attacks. 
 - Strong cross-functional foundation in Business Analytics (Excel modeling, Power Query, Power Pivot, and data visualization).
