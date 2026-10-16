@@ -19,12 +19,12 @@
 ---
 
 ### 🛡️ Personal Security Projects & Tools
+ In my work with non-profits and various small companies phishing awareness is still not widespread leading to phishing attacks and email compromise that can spiral towards other organizations. I would love to create a non-profit to teach phishing awareness and administer this tool to them to help strengthen their own organizations form these threats. 
 
-* **[Gmail-Style Phishing Simulation App]** *(HTML / JavaScript / CSS)*
-  * Built an interactive web application replicating a Gmail-style interface to simulate both malicious and benign emails for user security training.
 * **[Security Awareness & Phishing Suite]**
   * Created structured training presentations and integrated Google Form quizzes to evaluate user awareness and measure organizational resilience against social engineering.
-
+* **[Gmail-Style Phishing Simulation App]** *(HTML / JavaScript / CSS)*
+  * Built an interactive web application replicating a Gmail-style interface to simulate both malicious and benign emails for user security training after covering the Security Awareness Training Presentation.
 ---
 
 ### 🛠️ Technical Arsenal
