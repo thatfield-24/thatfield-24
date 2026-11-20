@@ -24,7 +24,7 @@
 ### 🛡️ Personal Security Projects & Tools
 #### Home Lab
 <p>
-  I have recently built out a Home Lab to learn more about the setup and configuration about security environments. I have created Wazuh ecosystem for Windows, Linux, and my servers to manage security events and possible vulnerabilities. Additionally I have a raspberry PI set as my personal AD Blocker, as well as a PFSense firewall that is configured with OpenVPN for remote access. 
+  I have recently built out a Home Lab to learn more about the setup and configuration about security environments. I have created Wazuh ecosystem for Windows, Linux, and my servers to manage security events and possible vulnerabilities. Additionally I have a raspberry PI set as my personal ad Blocker, as well as a PFSense firewall that is configured with OpenVPN for remote access. 
 </p>
 
 #### Wishful Thinking
@@ -34,8 +34,8 @@
 
 ### 🛠️ Technical Arsenal
 
-* **Security & SIEM:** Microsoft Defender, KQL (Kusto Query Language), LogicApps, Threat Hunting, Incident Response, Vulnerability Assessment.
-* **Development & Scripting:** Bash, Powershell, Python, Git/GitHub.
+* **Security & SIEM:** Microsoft Defender, KQL (Kusto Query Language), LogicApps, Threat Hunting, Incident Response, Vulnerability Assessment
+* **Development & Scripting:** Bash, Powershell, Python, Git/GitHub
 * **Analytics & Tools:** Excel (Power Query, Power Pivot, Modeling), Data Visualization
 
 ---
